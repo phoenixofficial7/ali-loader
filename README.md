@@ -14,7 +14,7 @@ Telegram File Renamer Bot
 ### Deploye To Heroku ❣️
    heroku uyir 🔥
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/phoenixofficial7/ali-testtttt)
 
 
 ## Configs 
