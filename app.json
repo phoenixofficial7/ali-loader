@@ -6,7 +6,7 @@
         "Renamer Bot",
         "Mongo DB"
     ],
-    "repository": "https://github.com/phoenixofficial7/ali-testtttt",
+    "repository": "https://github.com/phoenixofficial7/ali-loader",
     "success_url": "https://telegram.dog/",
     "env": {
         "API_ID": {
